@@ -1,0 +1,18 @@
+===================================================
+  Rental Mobil Alif - Informasi Akses
+===================================================
+
+URL Aplikasi  : http://localhost/ATSNPM_015/
+Database      : ats_npm613250015
+
+--- Akun Login ---
+Email    : admin@rental.com
+Password : admin123
+
+--- Database MySQL ---
+Host     : localhost
+User     : root
+Password : (kosong)
+Database : ats_npm613250015
+
+===================================================
